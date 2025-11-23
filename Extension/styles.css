@@ -1,0 +1,8 @@
+.x-location-badge {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 12px;
+    margin-right: 12px;
+    white-space: nowrap;
+
+}
